@@ -58,7 +58,7 @@ None
 #### Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Immune_checkpoin. WikiDoc. Nov 8, 2018. Available at: https://www.wikidoc.org/index.php/Immune_checkpoint#PD-1_inhibitors. Accessed November 8, 2018. 
+1. WikiDoc contributors. Immune checkpoint. WikiDoc. Nov 8, 2018. Available at: https://www.wikidoc.org/index.php/Immune_checkpoint#PD-1_inhibitors. Accessed November 8, 2018. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [License](files/LICENSE.md) - [History](../../commits/master/README.md)  - 
